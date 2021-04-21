@@ -1,1 +1,2 @@
-# yolo-newton
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
